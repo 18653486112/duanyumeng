@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 <div class="container-fluid">
 	<div class="row-fluid">
 		<div class="span12">
