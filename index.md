@@ -156,6 +156,99 @@
 				</li>
 			</ul>
 			<h3>
+				教育经历
+			</h3>
+			<table class="table table-striped">
+				<thead>
+					<tr>
+						<th>
+							编号
+						</th>
+						<th>
+							就读学校
+						</th>
+						<th>
+							入学时间
+						</th>
+						<th>
+							状态
+						</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>
+							1
+						</td>
+						<td>
+							徐州西苑第二小学
+						</td>
+						<td>
+							2008
+						</td>
+						<td>
+							转学离校
+						</td>
+					</tr>
+					<tr class="success">
+						<td>
+							2
+						</td>
+						<td>
+							德州湖滨北路小学
+						</td>
+						<td>
+							2011
+						</td>
+						<td>
+							毕业
+						</td>
+					</tr>
+					<tr class="error">
+						<td>
+							3
+						</td>
+						<td>
+							德州第九中学
+						</td>
+						<td>
+							2014
+						</td>
+						<td>
+							毕业
+						</td>
+					</tr>
+					<tr class="warning">
+						<td>
+							4
+						</td>
+						<td>
+							德州第一中学
+						</td>
+						<td>
+							2017
+						</td>
+						<td>
+							毕业
+						</td>
+					</tr>
+					<tr class="info">
+						<td>
+							5
+						</td>
+						<td>
+							南京理工大学
+						</td>
+						<td>
+							2020
+						</td>
+						<td>
+							在读
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<h3>
 				技能证书
 			</h3>
 			<p class="text-left">
