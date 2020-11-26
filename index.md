@@ -126,6 +126,44 @@
 			<h3>
 				兴趣爱好
 			</h3>
+			<ul class="thumbnails">
+				<li class="span4">
+					<div class="thumbnail">
+						<div class="caption">
+							<h3>
+								吉他
+							</h3>
+						</div>
+					</div>
+				</li>
+				<li class="span4">
+					<div class="thumbnail">
+						<div class="caption">
+							<h3>
+								乒乓球
+							</h3>
+						</div>
+					</div>
+				</li>
+				<li class="span4">
+					<div class="thumbnail">
+						<div class="caption">
+							<h3>
+								听音乐
+							</h3>
+						</div>
+					</div>
+				</li>
+			</ul>
+			<h3>
+				技能证书
+			</h3>
+			<p class="text-left">
+				<em>计算机等级二级、CET-4、普通话资格证</em>
+			</p>
+			<p>
+				<span class="label">感谢您花时间阅读我的简历，期待能有机会和您共事。</span>
+			</p>
 		</div>
 	</div>
 </div>
