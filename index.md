@@ -65,12 +65,8 @@
 				</dd>
 			</dl>
 		</div>
-		<div class="span6">
-			<img alt="https://github.com/18653486112/duanyumeng/blob/gh-pages/%E5%90%89%E4%BB%96.jpeg?raw=true" />
-		</div>
-	</div>
-	<div class="row-fluid">
-		<div class="span12">
+		<img src="https://github.com/18653486112/duanyumeng/blob/gh-pages/%E5%90%89%E4%BB%96.jpeg?raw=true" width="50%">
+
 			<h3>
 				教育背景
 			</h3>
