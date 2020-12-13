@@ -64,9 +64,6 @@
 					学生
 				</dd>
 			</dl>
-		</div>
-		<img src="https://github.com/18653486112/duanyumeng/blob/gh-pages/%E5%90%89%E4%BB%96.jpeg?raw=true" width="50%">
-
 			<h3>
 				教育背景
 			</h3>
