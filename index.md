@@ -63,7 +63,7 @@
 				<dd>
 					学生
 				</dd>
-				</dl><img alt="140x140" src="https://github.com/18653486112/duanyumeng/blob/gh-pages/%E5%90%89%E4%BB%96.jpeg?raw=true" />
+				</dl><img alt="140x140" src="https://github.com/18653486112/duanyumeng.GitHub.io/blob/gh-pages/%E5%90%89%E4%BB%96.jpeg?raw=true" />
 			<h3>
 				教育背景
 			</h3>
