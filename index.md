@@ -247,6 +247,28 @@
 			<p class="text-left">
 				<em>计算机等级二级、CET-4、普通话资格证</em>
 			</p>
+			<h3>
+				个人作品
+			</h3>
+			<div class="tabbable" id="tabs-55979">
+				<ul class="nav nav-tabs">
+					<li class="active">
+						<a data-toggle="tab" href="#panel-730971">素描</a>
+					</li>
+					<li>
+						<a data-toggle="tab" href="#panel-904608">色彩</a>
+					</li>
+				</ul>
+				<div class="tab-content">
+					<div class="tab-pane active" id="panel-730971">
+						<p>
+							https://github.com/18653486112/duanyumeng.GitHub.io/tree/gh-pages/%E7%B4%A0%E6%8F%8F
+						</p>
+					</div>
+					<div class="tab-pane" id="panel-904608">
+						<p>
+							https://github.com/18653486112/duanyumeng.GitHub.io/tree/gh-pages/%E8%89%B2%E5%BD%A9
+						</p>
 			<p>
 				<span class="label">感谢您花时间阅读我的简历，期待能有机会和您共事。</span>
 			</p>
