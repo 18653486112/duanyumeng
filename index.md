@@ -66,7 +66,7 @@
 			</dl>
 		</div>
 		<div class="span6">
-			<img alt="140x140" src="img/a.jpg" />
+			<img alt="https://github.com/18653486112/duanyumeng/blob/gh-pages/%E5%90%89%E4%BB%96.jpeg?raw=true" />
 		</div>
 	</div>
 	<div class="row-fluid">
@@ -255,10 +255,6 @@
 				<em>计算机等级二级、CET-4、普通话资格证</em>
 			</p>
 			<p>
-				<img src="http://static.runoob.com/images/runoob-logo.png 
-
-" width="50%">
-
 				<span class="label">感谢您花时间阅读我的简历，期待能有机会和您共事。</span>
 			</p>
 		</div>
